@@ -1,0 +1,23 @@
+# ninja log v5
+1	550	6715852158875287	CMakeFiles/cpp_sandbox.dir/main.cpp.obj	ae9c70e459547614
+552	677	6715852160110413	cpp_sandbox.exe	1da2ce9323d274d5
+0	620	6715857883151445	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+622	748	6715857884416225	cpp_sandbox.exe	a1d308cb25acf465
+2	619	6715857993978410	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+619	737	6715857995137001	cpp_sandbox.exe	a1d308cb25acf465
+3	613	6715858057225014	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+613	755	6715858058658460	cpp_sandbox.exe	a1d308cb25acf465
+2	617	6715858399253858	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+619	742	6715858400503056	cpp_sandbox.exe	a1d308cb25acf465
+3	604	6715858523164092	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+605	727	6715858524359166	cpp_sandbox.exe	a1d308cb25acf465
+2	646	6715858811352268	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+646	773	6715858812611820	cpp_sandbox.exe	a1d308cb25acf465
+3	592	6715859068927995	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+593	720	6715859070172707	cpp_sandbox.exe	a1d308cb25acf465
+2	574	6715865573343455	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+574	698	6715865574538532	cpp_sandbox.exe	a1d308cb25acf465
+2	579	6715865882183656	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+579	712	6715865883498061	cpp_sandbox.exe	a1d308cb25acf465
+2	569	6715866171783662	CMakeFiles/cpp_sandbox.dir/bullshit.cpp.obj	4558db9859de1991
+569	686	6715866172924479	cpp_sandbox.exe	a1d308cb25acf465
